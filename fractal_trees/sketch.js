@@ -1,5 +1,4 @@
 var angle = 0;
-
 var slider;
 
 function setup() {
